@@ -54,8 +54,8 @@ struct Tiger {
         }else if randomNumber == 1{
             randomFact = "Tigers can reach a length of 3.3 meters"
         } else{
-            randomFact = "A group of tigers is known as an 'ambush' or 'streak"
+            randomFact = "A group of tigers is known as an 'ambush' or 'streak'"
         }
-    return randomFact
+        return randomFact
     }
 }
